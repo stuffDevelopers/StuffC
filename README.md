@@ -11,7 +11,8 @@ Repositorio del primer test de desarrollo en equipo utilizando LARAVEL
 
 
 **Guia de inicio en GitHub** : http://rogerdudler.github.io/git-guide/index.es.html 
- **Comandos de testeo con artisan serve**
+
+**Comandos de testeo con artisan serve**
 `composer install`
 `php artisan serve`
 
