@@ -1,15 +1,16 @@
-##Online Store
-
-StuffDevelopers
+## Online Store
+##
+## StuffDevelopers
 ##
 Repositorio del primer test de desarrollo en equipo utilizando LARAVEL
-#git clone:https://github.com/stuffDevelopers/StuffC.git#
-#Necesario tener instalado#
+# git clone:https://github.com/stuffDevelopers/StuffC.git #
+##
+# Necesario tener instalado #
 -->PHP >5.5
--->GIT
+-->GIT  
 -->composer
 -->NodeJS
-#Comandos de testeo con artisan serve#
+**Comandos de testeo con artisan serve**
 `composer install
 php artisan serve`
 
