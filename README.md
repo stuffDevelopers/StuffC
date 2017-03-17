@@ -20,4 +20,4 @@ php artisan serve`
 
 ![Figura 13.4][6]
 
- [6]: public/images/stuff2.png
+ [6]: public/images/stuff2.jpeg
