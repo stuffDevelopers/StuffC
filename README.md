@@ -7,7 +7,8 @@ Repositorio del primer test de desarrollo en equipo utilizando LARAVEL
 * -->GIT  
 * -->composer
 * -->NodeJS
-** Guia de inicio en GitHub**
+* 
+**Guia de inicio en GitHub**
 **Comandos de testeo con artisan serve**
 `composer install
 php artisan serve`
