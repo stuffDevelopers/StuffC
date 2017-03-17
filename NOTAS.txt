@@ -1,0 +1,25 @@
+___________________________________________________________________________________________________________________________________________DATABASE
+
+comando para instalar -->                                              sudo apt-get install mysql-server
+Contraseña utilizada para el proyecto -->                              Password= StuffDevC
+Comando para ejecutan mysql -->                                        mysql -u root -p
+Comando para instalar el controlador de la base de datos con php -->   sudo apt-get install php-mysql
+Comando para crear una migrations -->                                  php artisan make:migration add_categories_table --create=categories
+
+guiarse de este video para comprender el tema de las Migraciones de las bases de
+datos y la manera de crear las tablas en MYSQL. -->                    https://www.youtube.com/watch?v=Z8d9flJERT4
+___________________________________________________________________________________________________________________________________________________
+
+
+
+
+__________________________________________________________________________________________________________________________________________FrontEnd
+
+__________________________________________________________________________________________________________________________________________________
+
+
+
+
+___________________________________________________________________________________________________________________________________________BackEnd
+
+__________________________________________________________________________________________________________________________________________________
