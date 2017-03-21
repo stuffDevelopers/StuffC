@@ -15,13 +15,7 @@ ________________________________________________________________________________
 
 
 __________________________________________________________________________________________________________________________________________FrontEnd
-comando para descargar el template de bulma-->                         composer require atomescrochus/laravel-bulma-starter
-// config/app.php
-'providers' => [
-    ...
-    Atomescrochus\LaravelBulmaStarter\LaravelBulmaStarterServiceProvider::class,
-];
-
+Para poder usar bulma gurdamos bulma en la carpeta "public" para que el navegador pueda interpretar el css.
 __________________________________________________________________________________________________________________________________________________
 
 
