@@ -40,5 +40,10 @@
       </div>
     </div>
   </nav>
+
+  <div >
+    <figure  style="margin-right: 100px;"  style="height: 200px;">
+      <img src="/images/wifi.jpg" alt="Bulma logo" >
+  </div>
   </body>
 </html>

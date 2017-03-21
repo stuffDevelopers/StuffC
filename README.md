@@ -10,7 +10,7 @@ Repositorio del primer test de desarrollo en equipo utilizando LARAVEL
 * -->GitKraken
 
 
-**Guia de inicio en GitHub** : http://rogerdudler.github.io/git-guide/index.es.html 
+**Guia de inicio en GitHub** : http://rogerdudler.github.io/git-guide/index.es.html
 
 **Comandos de testeo con artisan serve**
 `composer install`
