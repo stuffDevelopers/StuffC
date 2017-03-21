@@ -40,10 +40,29 @@
       </div>
     </div>
   </nav>
+      <div class="tile is-parent">
+        <article class="tile is-child notification is-info">
+          <p class="title">BIENVENIDOS</p>
+          <p class="subtitle">Stuff empresa de desarrollo</p>
+          <figure class="image is-4by3">
+            <img src="/images/dev.jpeg">
+          </figure>
+        </article>
+      </div>
 
-  <div >
-    <figure  style="margin-right: 100px;"  style="height: 200px;">
-      <img src="/images/wifi.jpg" alt="Bulma logo" >
-  </div>
+      <div class="tile is-parent">
+  <article class="tile is-child notification is-success">
+    <div class="content">
+      <p class="title"></p>
+      <p class="subtitle">Copyright todos los derechos reservados 2017-2050 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stuffdevelopers@gmail.com</p>
+      <div class="content">
+        <!-- Content -->
+      </div>
+    </div>
+  </article>
+</div>
+</div>
+
   </body>
 </html>
